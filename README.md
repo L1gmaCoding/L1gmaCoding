@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-<img src="https://tenor.com/view/mambo-umamusume-uma-musume-observing-observing-meme-gif-1610715111742355051" align=center>
+<img src="https://media1.tenor.com/m/Flpo3DXBtmsAAAAd/mambo-umamusume.gif" align=center>
