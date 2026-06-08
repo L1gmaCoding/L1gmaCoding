@@ -3,6 +3,6 @@
 <HTML>
   <BODY align=center>
     <p><b><i>mambo</i></b></p>
-    <img src="https://media1.tenor.com/m/Flpo3DXBtmsAAAAd/mambo-umamusume.gif">
+    <img src="https://c.tenor.com/Flpo3DXBtmsAAAAd/tenor.gif">
   </BODY>
 </HTML>
